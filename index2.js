@@ -18,3 +18,4 @@ if (process.env.ALG && process.env.ALG == "MD5") {
 console.log(word);
 
 
+
